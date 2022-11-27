@@ -13,7 +13,10 @@ In 2018, they released an interesting report which shows that the number of TV s
 Our goal here is to make an unsupervised clustering model, which will help in garnering insights on Netflix and how its content is being consumed.
 
 A brief summary of the dataset is given below:
+
+
 ![image](https://user-images.githubusercontent.com/18574968/204129141-102ca804-9ff2-458a-b1c8-4ac0d0380912.png)
+
 
 # Design and Methodology
 In this section, we will discuss the framework, extraction and preprocessing features, feature selection, and clustering algorithms.
