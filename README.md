@@ -26,6 +26,21 @@ The first step involved in the analysis is to load the dataset into the panda’
 
 ❖	Data Cleaning: Data Cleaning is one of the important steps before we start building models, in fact, there will be a significant increase in Model Performance when we have a clean, rich dataset. So here, we decided to replace null values with an empty string.
 ●	There are 2389 null values in Director column
+
+❖	Clustering
+
+We have used 4 algorithms for the clustering of our model.
+
+![image](https://user-images.githubusercontent.com/18574968/204129293-d4fae0d2-0d73-4546-ab39-b6452059ad13.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/18574968/204129272-ef7d5952-9f37-476f-9c44-4223a7c4378c.png)
+
+![image](https://user-images.githubusercontent.com/18574968/204129251-e14175b4-4fc1-4bb1-8b9f-6936aef5dc86.png)
+
 ●	There are 718 null values in cast column
 ●	There are 507 null values in country column
 ●	There are 10 null values in date added column
