@@ -1,3 +1,8 @@
+                                                   <h1 align="center"> NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
+
+
 # NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
 ![image](https://user-images.githubusercontent.com/18574968/204129095-a6b90c3b-8eb9-4555-825f-33dc7a9c7989.png)
 
